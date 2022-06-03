@@ -1,5 +1,4 @@
-### Hi there
-### I'm Dylan Ngo
+### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
 - 🔭 I’m currently working on Magento, AWS, Non Blocking IO with Restful API
