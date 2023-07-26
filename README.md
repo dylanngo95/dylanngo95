@@ -1,10 +1,10 @@
 ### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
-- 🔭 I’m currently working on Magento, AWS, Non Blocking IO with Restful API
-- 🌱 I’m currently learning MySQL Architechture, Network with TCP/UDP
+- 🔭 I’m currently working on Symfony, SpringBoot, Non-Blocking IO with Restful API
+- 🌱 I’m currently learning Django, Rust, K8S
 - 💬 You can ask me about technologies
-- ⚡ Fun fact: Open changes, Open challegies
+- ⚡ Fun fact: Open changes, Open challenges
  
 
 ## 🌐Socials
