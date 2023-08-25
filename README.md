@@ -1,8 +1,8 @@
 ### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
-- 🔭 I’m currently working on Symfony, Spring Boot, Non-Blocking IO with Restful API
-- 🌱 I’m currently learning Django, K8S, Software Architecture
+- 🔭 I’m currently working on PHP, Java, Python, Magento 2, Docker
+- 🌱 I’m currently learning AWS, K8S, Software Architecture
 - 💬 You can ask me about technologies
 - ⚡ Fun fact: Open changes, Open challenges
  
@@ -20,8 +20,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂Dev Meme
+<img src="https://urlme.me/uploaded-5d01f9c2df30ca64b638b8ecc9bbe3a7/_/_.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dylanngo95&icon=0&color=0)](https://visitcount.itsvg.in)
