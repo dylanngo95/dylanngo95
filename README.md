@@ -2,7 +2,7 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on Symfony, Spring Boot, Python, Non-Blocking IO with Restful API
-- 🌱 I’m currently learning Django, K8S, Software Architecture
+- 🌱 I’m currently learning Django, K8S, Software Architecture, AI
 - 💬 You can ask me about technologies
 - ⚡ Fun fact: Open changes, Open challenges
  
