@@ -1,7 +1,7 @@
 ### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
-- 🔭 I’m currently working on Symfony, Spring Boot, Python, Non-Blocking IO with Restful API
+- 🔭 I’m currently working on Symfony, Quarkus, Python, Single Sign On with Keycloak
 - 🌱 I’m currently learning Django, K8S, Software Architecture, AI
 - 💬 You can ask me about technologies
 - ⚡ Fun fact: Open changes, Open challenges
