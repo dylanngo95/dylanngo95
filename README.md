@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Dev Meme
-<img src="https://urlme.me/uploaded-5d01f9c2df30ca64b638b8ecc9bbe3a7/typed_a_url/made_a_meme.jpg" width="512px"/>
+<img src="https://urlme.me/uploaded-5d01f9c2df30ca64b638b8ecc9bbe3a7/_/_.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dylanngo95&icon=0&color=0)](https://visitcount.itsvg.in)
